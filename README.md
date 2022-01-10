@@ -1,7 +1,8 @@
 ### Hi there 👋
+<p align="center">
+  <img src="./assets/FED8gewXIAE6HDQ.jpg" alt="Banner"></a>
+</p>
 
-<!--
-**vuongle2609/vuongle2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
