@@ -18,6 +18,7 @@
 ### - Hobbies : 
 - ✨ Watching Anime
 - ✨ Reading Light Novels
+- ✨ Watching Vtube
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)
