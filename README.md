@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center">
   <img src="./assets/FED8gewXIAE6HDQ.jpg" alt="Banner"></a>
 </p>
