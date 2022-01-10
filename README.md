@@ -8,7 +8,7 @@
 
 # About ME 💬 :
 
-<img height="auto" width="500" alt="GIF" align="right" src="./assets/elaina1.png">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)
 
 ### - Technologies :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,7 +21,6 @@
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)
 </br>
 </br>
 </br>
