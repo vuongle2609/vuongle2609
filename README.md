@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/FED8gewXIAE6HDQ.jpg" alt="Banner"></a>
-</p>
-
 <h1 align="center">Hi, I'm <a href="https://www.facebook.com/vuong.lethanh.315/">Vuong Le</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
@@ -22,7 +18,13 @@
 - ✨ Watching Vtube
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)
+<p align="left">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)
+  </p>
+
+<p align="right">
+  <img src="./assets/FED8gewXIAE6HDQ.jpg" alt="Banner"></a>
+</p>
 </br>
 </br>
 </br>
