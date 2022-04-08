@@ -1,3 +1,5 @@
+<img src="./assets/FED8gewXIAE6HDQ.jpg" float="right">
+
 <h1 align="center">Hi, I'm <a href="https://www.facebook.com/vuong.lethanh.315/">Vuong Le</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
@@ -17,8 +19,8 @@
 - ✨ Reading Light Novels
 - ✨ Watching Vtube
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/FED8gewXIAE6HDQ.jpg" width="200" float="right"></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)
 </br>
 </br>
 </br>
