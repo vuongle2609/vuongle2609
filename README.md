@@ -23,7 +23,7 @@
 
 
 <span float="right">
-  <img src="./assets/FED8gewXIAE6HDQ.jpg" alt="Banner"></a>
+  <img src="./assets/FED8gewXIAE6HDQ.jpg" width="100"></a>
 </span>
 </br>
 </br>
