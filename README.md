@@ -18,9 +18,9 @@
 - ✨ Watching Vtube
 
 
-<span align="left">
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)
-  </span>
+
 
 <span align="right">
   <img src="./assets/FED8gewXIAE6HDQ.jpg" alt="Banner"></a>
