@@ -17,7 +17,7 @@
 - ✨ Reading Light Novels
 - ✨ Watching Vtube
 
-![alt-text-1](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact))![alt-text-2](<img src="./assets/FED8gewXIAE6HDQ.jpg" width="100"></a>)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX&layout=compact)<img src="./assets/FED8gewXIAE6HDQ.jpg" width="100"></a>
 
 </br>
 </br>
