@@ -1,5 +1,3 @@
-<img src="./assets/FED8gewXIAE6HDQ.jpg" float="right">
-
 <h1 align="center">Hi, I'm <a href="https://www.facebook.com/vuong.lethanh.315/">Vuong Le</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
