@@ -15,7 +15,7 @@
 
 ### - Hobbies : 
 - ✨ Anime
-- ✨ Light Novels
+- ✨ Light Novel
 - ✨ Vtube
 - ✨ Manga
 - ✨ Sleep
