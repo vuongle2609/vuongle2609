@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 </div>
 
 ### - Hobbies : 
@@ -32,7 +33,6 @@
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Elaine%238063%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuongle2609&hide=TeX)
 </br>
 </br>
 </br>
