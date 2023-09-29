@@ -6,7 +6,7 @@
 class Readme {
   constructor() {
     this.name = "Vuong Le";
-    this.age = 19;
+    this.age = 20;
     this.contacts = {
       email: "vuongle2609@gmail.com",
       tele: "vuongle2609",
