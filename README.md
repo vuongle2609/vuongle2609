@@ -24,6 +24,17 @@ class Readme {
 
 <br/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://readme-stats-kappa-taupe.vercel.app/api/top-langs/?username=vuongle2609&hide=scss,css,html&langs_count=8&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://readme-stats-kappa-taupe.vercel.app/api/?username=vuongle2609&hide=scss,css,html&langs_count=20&layout=pie" />
+</a>
+
+<br/>
+<br/>
+<br/>
+
 <img src="./assets/spongebob-rainbow-4.gif" align="right">
 
 <div>
@@ -48,6 +59,7 @@ class Readme {
 </div>
 
 <div>
+
 
 ### - Others:
 
