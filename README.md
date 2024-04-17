@@ -21,20 +21,6 @@ class Readme {
   }
 }
 ```
-
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-kappa-taupe.vercel.app/api/top-langs/?username=vuongle2609&hide=scss,css,html&langs_count=8&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://readme-stats-kappa-taupe.vercel.app/api/?username=vuongle2609&hide=scss,css,html&langs_count=20&layout=pie" />
-</a>
-
-<br/>
-<br/>
-<br/>
-
 <img src="./assets/spongebob-rainbow-4.gif" align="right">
 
 <div>
@@ -56,12 +42,7 @@ class Readme {
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 </div>
 
 <div>
-
-
-### - Others:
-
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-</div>
